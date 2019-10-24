@@ -1,3 +1,3 @@
 # GoBarberBackend
 
-## Api focada em agendamento de uma barbearia.
+Api focada em agendamento de uma barbearia.
